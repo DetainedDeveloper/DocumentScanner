@@ -1,4 +1,4 @@
-# DocumentScanner
+# Quick Start
 1. Clone/Download repository
 2. Open Terminal/Command prompt and navigate to the folder **DocumentScanner**
 3. Run `pip3 install -r requirements.txt`
